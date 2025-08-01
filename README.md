@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **MERN, React, Node and Next.js projects**
 
+-👨‍💻 All of my projects are available at https://hamza-malik.com 
+
 - 💬 Ask me about **React, Node, Next.js**
 
 - 📫 How to reach me **hamzamalikm003@gmail.com**
